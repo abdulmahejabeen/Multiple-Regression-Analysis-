@@ -11,7 +11,7 @@ From the categorical features, to check whether the variables sex and smoker are
 - For sex: if female: 1 and male: 0
 
 ## Observations
-- smoker feature plays a significant role and most influenced attribute in predicting the expenses, i.e., if the individual smokes there is increase in the expenses comparitively with the individuals who doesn't smoke.
+- Smoker feature plays a significant role and most influenced attribute in predicting the expenses, i.e., if the individual smokes there is increase in the expenses comparitively with the individuals who doesn't smoke.
 - The other columns, children, bmi doesnt have much significant impact on the target variable.
 - However, in the plot can see significant variance of predicted from expected values.
 
