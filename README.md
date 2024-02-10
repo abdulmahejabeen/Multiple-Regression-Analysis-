@@ -1,4 +1,4 @@
-# Multiple Regression Analysis
+# Multiple Regression Analysis on Insurance dataset
 ## Description
 
 The dataset contains 4 numerical features (age, bmi, children and expenses) and 3 categorical features (sex, smoker and region)
